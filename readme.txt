@@ -6,3 +6,4 @@ git change files.
 have a remote now.
 modified origin.
 branch GA7.
+这里会有冲突.
