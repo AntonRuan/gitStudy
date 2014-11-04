@@ -7,3 +7,4 @@ have a remote now.
 modified origin.
 branch GA7.
 这里会有冲突和解决方案.
+11.4冲突.
