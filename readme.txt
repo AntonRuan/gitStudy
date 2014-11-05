@@ -17,3 +17,5 @@ branch GA7.
 git pull配置.
 11.5ucm.
 11.5ucm2.
+解决bug.
+
